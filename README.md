@@ -17,6 +17,7 @@ The MyMovie application retrieves movie data from an external API using React.js
 #### To Use This Application:
 -  Clone repository
 -  Use npm to install packages (npm i) including express, pg, cors, react-router-dom, and compression
+-  Use the command "nodemon index" to start server locally
 -  Use the command "npm start" to run the application locally and test
 
 
