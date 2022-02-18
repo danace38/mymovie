@@ -1,5 +1,7 @@
 # MyMovie-Frontend
 
+Link to deployed application: https://epic-kalam-07577c.netlify.app/
+
 This is the frontend for the Capstone MyMovie application. Through connecting to the backend, an application is created that allows the user to create an account and search for movie titles. Users can also add specified movies to a personalized list, search movie trailers and descriptions, and view upcoming, trending, showing now, and popular movies in the U.S. 
 
 <img width="1440" alt="Screen Shot 2022-01-26 at 11 05 37 PM" src="https://user-images.githubusercontent.com/92334995/151290105-e1d5a954-46ec-4c8a-9589-1a454715968b.png">
