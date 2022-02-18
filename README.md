@@ -13,8 +13,8 @@ The MyMovie application retrieves movie data from an external API using React.js
 -  Users can search for specific movie trailers and synopses
 -  Users can search and add movies to a personalized movie preference list, which is displayed specifically for the user that is logged in 
 
-### Features
-## To Use This Application:
+### Instructions
+#### To Use This Application:
 -  Clone repository
 -  Use npm to install packages (npm i) including express, pg, cors, react-router-dom, and compression
 -  Use the command "npm start" to run the application locally and test
